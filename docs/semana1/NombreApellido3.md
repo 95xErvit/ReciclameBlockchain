@@ -1,6 +1,7 @@
 # Propuesta individual
 
 **Nombre:** Escribe aquí tu nombre
+
 **Usuario de GitHub:** Escribe aquí tu usuario
 
 ---
