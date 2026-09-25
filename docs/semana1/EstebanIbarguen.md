@@ -2,7 +2,7 @@
 
 **Nombre:** Esteban Ibarguen
 
-**Usuario de GitHub:** Escribe aquí tu usuario
+**Usuario de GitHub:** EstebannEsteban
 
 ---
 
